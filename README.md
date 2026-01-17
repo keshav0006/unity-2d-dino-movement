@@ -15,5 +15,6 @@ idle, walk, and jump animations.
 - C#
 - Animator Controller
 - Sprite animations
-
-##  Project Structure
+- 
+## Gameplay Demo:
+https://youtu.be/7-v4Xuzclmg
