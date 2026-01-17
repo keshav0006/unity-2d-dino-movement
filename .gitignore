@@ -1,0 +1,11 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Ll]ogs/
+UserSettings/
+
+# OS junk
+.DS_Store
+Thumbs.db
